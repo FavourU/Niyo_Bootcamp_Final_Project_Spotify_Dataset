@@ -19,7 +19,8 @@ Method:
 8. To see the total streams, in buckets, and have an idea of the distribution, used CASE WHEN and found that most of the songs had total streams les than 100 million. I suggest that the data be split as certain results are skewing the data, which mmay make it difficult to visualise well.
 
 ## Excel
-
+Basic cleaning of the dataframe:
+1. Remove uri column
 Much like SQL, i used Excel functions such as ... to find out the 
 
 ## Python
