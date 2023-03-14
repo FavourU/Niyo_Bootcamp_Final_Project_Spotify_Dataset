@@ -4,7 +4,7 @@ Project consists of 7 files: The 2 Original dataset (CSV), SQL (Big Query), Exce
 
 The Original Datasets are from Kaggle and are the ['Spotify Top 10000 Streamed Songs'](https://www.kaggle.com/datasets/rakkesharv/spotify-top-10000-streamed-songs?datasetId=2777839&sortBy=dateCreated&sort=most-comments) and ['Spotify top chart songs 2022'](https://www.kaggle.com/datasets/sveta151/spotify-top-chart-songs-2022) . These datasets are scrapped from the largest streaming software - Spotify, and will be used to see who the top streamed artists were and if factors such as danceability or energy affect the streaming position of the artist. The columns that I am interested in are 'Position, Artist_Name, Song_Name, Peak_Position, weeks_on_chart, Total_Streams, Top_10__xTimes_, danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, tempo, duration_ms'.
 
-##SQL
+## SQL
 
 Using BigQuery, I retrieved the dataset and wanted to answer my 5 basic question (covered in Powerpoint presentation)
 
@@ -18,14 +18,15 @@ Method:
 7. Realised that as many artists only had 1 song in the top 10,000, when looking for the average number of times in top 10, the results where sweked because of this.
 8. To see the total streams, in buckets, and have an idea of the distribution, used CASE WHEN and found that most of the songs had total streams les than 100 million. I suggest that the data be split as certain results are skewing the data, which mmay make it difficult to visualise well.
 
-##Excel
+## Excel
 
 Much like SQL, i used Excel functions such as ... to find out the 
-##Python
+
+## Python
 Realised that may have to split the data into top and bottom half of positions. 
 
 
 
-##PowerBI
+## PowerBI
 
-##PowerPoint Presentation
+## PowerPoint Presentation
