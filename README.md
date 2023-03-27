@@ -37,10 +37,12 @@ Using SUM, MAX and XLOOKUP i was able to note what song had been in the top 10 t
 There is a total of 200 billion streams (from the songs) and Sunflower Spiderman accounts for 0.4% of this number. It also has been in the top 10 302 times, which is higher than the other songs.
 
 ## Python
-Realised that may have to split the data into top and bottom half of positions. 
+After importing the necessary dataframes, i merged the dataframes together based on the artist name and song name. After cleaning up the dataframe, i removed rows that i deemed were unecessary. As my project objective was focusing on how to get within the top 10, i thought it unneccessary to have datapoints that are not within top 10, so removed thos using loc.
 
+Used Python to visualise some of the data and derive insights from it.
 
 
 ## PowerBI
+
 
 
