@@ -44,5 +44,9 @@ Used Python to visualise some of the data and derive insights from it.
 
 ## PowerBI
 
+To create the dashboard, I had to import a specific dataframe from my python (specific to songs within top 10). Looking at the Duration, Properties (Danceability, energy, acousticness, speechiness) and release days of the song will allow for recommendations to be made to improve the streaming number of TWICE.
 
+The python section required me to use 3 different tables, Unpivot certain columns (danceability, energy, acousticenss and speechiness) and do calculations to convert milliseconds into seconds to make the graph more readable.
+
+I chose a dark theme to fit with the presentation and the overall theme of the Project.
 
