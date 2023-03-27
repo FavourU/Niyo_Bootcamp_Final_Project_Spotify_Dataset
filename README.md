@@ -1,4 +1,4 @@
-# Niyo_Bootcamp_Final_Project_Spotify_Dataset
+# Niyo Bootcamp Final Project: Spotify EDA
 
 Project consists of 7 files: The 2 Original dataset (CSV), SQL (Big Query), Excel, Python (Google Colab), PowerBi and the final Powerpoint presentation.
 
