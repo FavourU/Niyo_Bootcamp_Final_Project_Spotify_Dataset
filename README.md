@@ -32,9 +32,9 @@ The highest rank that Twice had gained was 83rd, but a similar group, BTS, had s
 Also, CASE WHEN showed that the majority of the Data was within 'less than 100million streams', which suggested that the data set would have to be split to get clearer visuals.
 
 ## Excel
-Basic cleaning of the dataframe:
-1. Remove uri column
-Much like SQL, i used Excel functions such as ... to find out the 
+Using SUM, MAX and XLOOKUP i was able to note what song had been in the top 10 the most number of times (Sunflower: spiderman) which would be useful later in the analysis.
+
+There is a total of 200 billion streams (from the songs) and Sunflower Spiderman accounts for 0.4% of this number. It also has been in the top 10 302 times, which is higher than the other songs.
 
 ## Python
 Realised that may have to split the data into top and bottom half of positions. 
