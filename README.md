@@ -70,7 +70,7 @@ To make the duration chart more readable, I did calculations to convert millisec
 
 I chose a dark theme to fit with the presentation and the overall theme of the Project.
 
-##Conclusion
+## Conclusion
 
 This was a challanging project as there was a lot of research that had to be conducted, such as how to make radar and ridgeline plots on powerBI and Python. 
 
