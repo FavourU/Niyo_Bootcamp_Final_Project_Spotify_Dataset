@@ -8,7 +8,7 @@ The Presentation will explain the background and my objectives of this project.
 
 ## PowerPoint Presentation
 
-Titled : *Presentation on Spotify EDA Project*
+Titled : **Presentation on Spotify EDA Project**
 
 This Powerpoint will cover some insights I gained from the datasets using SQL, Python, PowerBi and Excel. I will apply the data to try and solve a business questions in relation to TWICE who are a Kpop girls group. In trying to understand what causes songs to rank in the top 10, i will also observe ways that TWICE can increase their streaming numbers, as well as realistic goals that they should set for themselves.
 
@@ -21,7 +21,7 @@ The presentation will cover a range of different visuals which will work togethe
 
 ## SQL
 
-Titled: *SQL Niyo final Projects - Spotify EDA.sql*
+Titled: **SQL Niyo final Projects - Spotify EDA.sql**
 
 Using BigQuery, I retrieved the dataset and wanted to answer my 3 objectives.
 
