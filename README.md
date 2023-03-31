@@ -42,12 +42,14 @@ The general insights that I recieved from this SQL query was that:
 
 ## Excel
 
-Titles **Excel Project Niyo.csv**
+Titled: **Excel Project Niyo.csv**
 Importing the Merged dataframe from python, I used COUNT, MAX and XLOOKUP to note what song had been in the top 10 the most number of times (Heat Waves) which would be useful later in the analysis.
 
 There is a total of 147 different songs within the merged dataframe.
 
 ## Python
+
+Titled: **Python_Spotify_Project.ipynb**
 After importing the necessary dataframes, I merged the dataframes together based on the artist name and song name. After cleaning up the dataframe, I removed rows that I deemed were unecessary. As my project objective was focusing on how to get within the top 10, I thought it unneccessary to have datapoints that are not within top 10, so removed those using loc.
 
 I then used Python to visualise some of the data and derive insights from it.
