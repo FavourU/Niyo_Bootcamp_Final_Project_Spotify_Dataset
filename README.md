@@ -43,6 +43,7 @@ The general insights that I recieved from this SQL query was that:
 ## Excel
 
 Titled: **Excel Project Niyo.csv**
+
 Importing the Merged dataframe from python, I used COUNT, MAX and XLOOKUP to note what song had been in the top 10 the most number of times (Heat Waves) which would be useful later in the analysis.
 
 There is a total of 147 different songs within the merged dataframe.
@@ -50,6 +51,7 @@ There is a total of 147 different songs within the merged dataframe.
 ## Python
 
 Titled: **Python_Spotify_Project.ipynb**
+
 After importing the necessary dataframes, I merged the dataframes together based on the artist name and song name. After cleaning up the dataframe, I removed rows that I deemed were unecessary. As my project objective was focusing on how to get within the top 10, I thought it unneccessary to have datapoints that are not within top 10, so removed those using loc.
 
 I then used Python to visualise some of the data and derive insights from it.
@@ -58,6 +60,7 @@ I then used Python to visualise some of the data and derive insights from it.
 ## PowerBI
 
 Titled: **Power BI Spotify Project.pdf**
+
 To create the dashboard, I imported the original 2 data frames and used them to visualise the correlation between the days and the total streams.
 I then imported the merged dataframe from power bi, unpivoted it using Power query and looked at duration and other attributes (Danceability, energy, acousticness, speechiness). I created 2 radar charts and a bar chart to look for trends or similarities.
 
