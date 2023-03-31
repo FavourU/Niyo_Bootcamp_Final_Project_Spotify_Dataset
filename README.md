@@ -57,6 +57,7 @@ I then used Python to visualise some of the data and derive insights from it.
 
 ## PowerBI
 
+Titled: **Power BI Spotify Project.pdf**
 To create the dashboard, I imported the original 2 data frames and used them to visualise the correlation between the days and the total streams.
 I then imported the merged dataframe from power bi, unpivoted it using Power query and looked at duration and other attributes (Danceability, energy, acousticness, speechiness). I created 2 radar charts and a bar chart to look for trends or similarities.
 
@@ -72,6 +73,6 @@ This was a challanging project as there was a lot of research that had to be con
 
 I put a lot of emphasis on making sure my Submissions were readable and aesthetically pleasing to the eye.
 
-I would have liked to look at a dataset with other attributes and comparing them, such as country the artist is form and how long the artist has been in the industry, as i believe there will be strong correlations in that.
+I would have liked to look at a dataset with other attributes and comparing them, such as country the artist is from, and how long the artist has been in the industry, as i believe there will be strong correlations in that.
 
 I would like to thank Niyo Bootcamps for the support during this project and all the information I learnt during 16 weeks of the bootcamp.
