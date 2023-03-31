@@ -41,6 +41,8 @@ The general insights that I recieved from this SQL query was that:
 4. CASE WHEN showed that the majority of the Data was within 'less than 100million streams', which suggested that the data set would have to be split to get clearer visuals.
 
 ## Excel
+
+Titles **Excel Project Niyo.csv**
 Importing the Merged dataframe from python, I used COUNT, MAX and XLOOKUP to note what song had been in the top 10 the most number of times (Heat Waves) which would be useful later in the analysis.
 
 There is a total of 147 different songs within the merged dataframe.
